@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey 👋, I'm [Dương Đức Nam!](https://www.facebook.com/nampt1999) 
 
-<!--
-**ddnam99/ddnam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300">
 
-Here are some ideas to get you started:
+```javascript
+const nam = {
+  title: 'Coder',
+  description: 'Change for change!'
+  code: [C#, JS, TS, HTML, CSS, Python],
+  tools: [Docker, NodeJS, React, VS Code],
+}
+```
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter: Double D](https://img.shields.io/twitter/follow/ddnam99?style=social)](https://twitter.com/ddnam99)
+[![GitHub Double D](https://img.shields.io/github/followers/ddnam99?label=follow&style=social)](https://github.com/ddnam99)
