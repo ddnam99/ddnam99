@@ -6,7 +6,7 @@
 const nam = {
   title: 'Coder',
   description: 'Change for change!'
-  code: [C#, JS, TS, HTML, CSS, Python],
+  code: [C#, Python, JS, TS, HTML, CSS],
   tools: [Docker, .Net, NodeJS, React],
 }
 ```
