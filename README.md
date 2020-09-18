@@ -4,7 +4,7 @@
 
 ```javascript
 const nam = {
-  title: 'Coder',
+  title: 'DevOps/Backend Developer',
   description: 'Change for change!'
   code: [C#, Python, JS, TS, HTML, CSS],
   tools: [Docker, .Net, NodeJS, React],
