@@ -1,16 +1,15 @@
 ### Hey 👋, I'm [Dương Đức Nam!](https://www.facebook.com/nampt1999) 
 
+[![Twitter: Double D](https://img.shields.io/twitter/follow/ddnam99?style=social)](https://twitter.com/ddnam99)
+[![GitHub Double D](https://img.shields.io/github/followers/ddnam99?label=follow&style=social)](https://github.com/ddnam99)
+---
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300">
 
 ```javascript
 const nam = {
   title: 'DevOps/Backend Developer',
   description: 'Change for change!'
-  code: [C#, Python, JS, TS, HTML, CSS],
-  tools: [Docker, .Net, NodeJS, React],
+  code: [C#, Python, Javascript, Typescript, SASS],
+  tools: [Docker, Jenkins, .Net, NodeJS, React],
 }
 ```
----
-
-[![Twitter: Double D](https://img.shields.io/twitter/follow/ddnam99?style=social)](https://twitter.com/ddnam99)
-[![GitHub Double D](https://img.shields.io/github/followers/ddnam99?label=follow&style=social)](https://github.com/ddnam99)
