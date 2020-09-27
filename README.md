@@ -10,7 +10,7 @@ const nam = {
   title: 'DevOps/Backend Developer',
   description: 'Change for change!',
   code: [C#, Python, Javascript, Typescript, SASS],
-  tools: [Docker, Jenkins, DroneCI, Azure, Blob Storage, .Net, NodeJS, React],
+  tools: [Docker, Jenkins, DroneCI, Azure, .Net, NodeJS, React],
 }
 ```
 ---
