@@ -6,7 +6,9 @@
 - ⚡ Fun fact **I'm a bug creator**
 
 <p align="center">
-    <img align='center' src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=namdd72&layout=compact" height="250px" width="auto" alt="wakatime stats" />
+    <img align='center'
+        src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=namdd72&layout=compact"
+        alt="wakatime stats" />
 </p>
 
 <p align="center">
@@ -78,3 +80,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ddnam99"> <img align="left"
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+            alt="ddnam99" /></a></p><br><br>
