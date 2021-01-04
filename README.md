@@ -7,7 +7,6 @@
 
 <p align="center">
     <img align='center' src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=namdd72&layout=compact" height="250px" width="auto" alt="wakatime stats" />
-    <img align='center' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" height="250px"  width="40%" style="border-radius: 5px;max-width:100%;" />
 </p>
 
 <p align="center">
