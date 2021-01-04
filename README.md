@@ -1,27 +1,24 @@
 <h1 align="center">Hi 👋, I'm Duong Duc Nam</h1>
 <h3 align="center">DevOps/Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddnam99&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ddnam99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ddnam99&count_private=true" alt="ddnam99" /></a>
-</p>
-
 - 📫 How to reach me **nampt1999@gmail.com**
 
 - ⚡ Fun fact **I'm a bug creator**
 
 <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72" alt="namdd's wakatime stats" />
-    <img align='right' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" width="300">
+    <img align='right' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" width="300" />
 </p>
 
-<p><img align="left"
+<p>
+    <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnam99&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
-        alt="ddnam99" />&nbsp;<img align="right"
+        alt="ddnam99" />
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=ddnam99&show_icons=true&locale=en&count_private=true"
-        alt="ddnam99" /><img align="right"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ddnam99&count_private=true" alt="ddnam99" /></p>
+        alt="ddnam99" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddnam99&count_private=true"
+        alt="ddnam99" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img
