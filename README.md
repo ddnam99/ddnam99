@@ -5,17 +5,17 @@
 
 - ⚡ Fun fact **I'm a bug creator**
 
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72" alt="namdd's wakatime stats" />
-    <img align='center' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" height="150px" width="auto" />
-</p>
-
 <p align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnam99&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
         alt="ddnam99" height="180px" width="auto" />
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ddnam99&show_icons=true&locale=en&count_private=true&card_width=10"
+        src="https://github-readme-stats.vercel.app/api?username=ddnam99&show_icons=true&locale=en&count_private=true&custom_title=GitHub%20Stats"
         alt="ddnam99" height="180px" width="auto" />
+</p>
+
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72&layout=compact" height="250px" width="auto" alt="namdd's wakatime stats" />
+    <img align='center' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" height="250px" width="auto" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
