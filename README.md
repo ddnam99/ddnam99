@@ -12,12 +12,10 @@
 <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnam99&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
-        alt="ddnam99" />
+        alt="ddnam99" height="195px" width="auto" />
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ddnam99&show_icons=true&locale=en&count_private=true"
-        alt="ddnam99" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddnam99&count_private=true"
-        alt="ddnam99" />
+        src="https://github-readme-stats.vercel.app/api?username=ddnam99&show_icons=true&locale=en&count_private=true&card_width=10"
+        alt="ddnam99" height="195px" width="auto" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
