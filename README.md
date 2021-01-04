@@ -5,17 +5,17 @@
 
 - ⚡ Fun fact **I'm a bug creator**
 
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72" alt="namdd's wakatime stats" />
-    <img align='right' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" width="300" />
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72" alt="namdd's wakatime stats" />
+    <img align='center' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" height="150px" width="auto" />
 </p>
 
-<p>
-    <img align="left"
+<p align="center">
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnam99&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
-        alt="ddnam99" height="195px" width="auto" />
+        alt="ddnam99" height="180px" width="auto" />
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=ddnam99&show_icons=true&locale=en&count_private=true&card_width=10"
-        alt="ddnam99" height="195px" width="auto" />
+        alt="ddnam99" height="180px" width="auto" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,10 +43,8 @@
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
         href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-            alt="illustrator" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
+            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.jenkins.io" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
