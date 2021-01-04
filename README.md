@@ -14,7 +14,8 @@
         alt="ddnam99" height="180px" width="auto" />
 </p>
 
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72&layout=compact" height="250px" width="auto" alt="namdd's wakatime stats" />
+<p align="center">
+    <img align='center' src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=namdd72&layout=compact" height="250px" width="auto" alt="wakatime stats" />
     <img align='center' src="https://github.com/ddnam99/ddnam99/blob/master/tenor.gif?raw=true" height="250px" width="auto" />
 </p>
 
