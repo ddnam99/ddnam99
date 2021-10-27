@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong Duc Nam</h1>
-<h3 align="center">Backend/DevOps/Blockchain Developer</h3>
+<h3 align="center">Backend/Blockchain Developer</h3>
 
 - 📫 How to reach me **nampt1999@gmail.com**
 
