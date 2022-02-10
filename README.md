@@ -9,9 +9,6 @@
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnam99&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
         alt="ddnam99"/>
-    <img align='center'
-        src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=namdd72&layout=compact"
-        alt="wakatime stats" />
 </p>
 
 <h3 align="left">Support:</h3>
