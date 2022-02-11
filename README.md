@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Duong Duc Nam</h1>
+<h1 align="center">Hi 👋, I'm Nam Duong Duc</h1>
 <h3 align="center">Backend/Blockchain Developer</h3>
 
-- 📫 How to reach me **nampt1999@gmail.com**
+- 📫 How to reach me **namdd.work@gmail.com**
 
 - ⚡ Fun fact **I'm a Bug creator**
 
