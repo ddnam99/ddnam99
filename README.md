@@ -7,7 +7,7 @@
 
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ddnam99&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
         alt="ddnam99"/>
 </p>
 
