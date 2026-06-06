@@ -7,7 +7,7 @@
 
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=namdd72&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
+        src="https://wakatime-proxy.namdd.workers.dev/api/wakatime-card"
         alt="ddnam99"/>
 </p>
 
